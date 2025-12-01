@@ -24,6 +24,16 @@
 
 <hr />
 
+## 🌐 **Project Website**
+
+Visit our [GitHub Pages site](https://extremerom.github.io/tik-spyder/) for:
+- Interactive documentation
+- Installation guides
+- Usage examples
+- Project overview
+
+<hr />
+
 ## 🔧 **Companion Tools**
 
 | Tool | Description | Access |

@@ -1,0 +1,5 @@
+# GitHub Pages Configuration
+theme: jekyll-theme-minimal
+title: TikSpyder
+description: Advanced TikTok Data Collection Tool
+show_downloads: false
