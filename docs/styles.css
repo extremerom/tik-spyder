@@ -295,7 +295,7 @@ section h2 {
 }
 
 .code-block code {
-    font-family: 'Monaco', 'Menlo', 'Ubuntu Mono', monospace;
+    font-family: 'Monaco', 'Menlo', 'Ubuntu Mono', 'Consolas', 'Courier New', monospace;
     color: var(--accent-secondary);
     font-size: 0.9rem;
     line-height: 1.6;
